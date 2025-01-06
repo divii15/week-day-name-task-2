@@ -1,3 +1,9 @@
+#TASK 2
+#4)Enter week day and find the day name?
+#ex:day 1
+#output:Sunday
+
+
 day=int(input("Enter the number:"))
 if(day==1):
    print("Sunday")
